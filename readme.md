@@ -9,6 +9,10 @@ Commit Helper is a Go-based CLI application that helps you in formatting your gi
 3. Forms the commit message in required format: `"[TicketID] CommitType: CommitMessage"`.
 4. Commits the changes with the formed commit message.
 
+## Demo Video
+![Commit Message Helper](../assets/Commit Helper.mp4)
+
+
 ## Usage
 
 1. Download the binary
