@@ -10,7 +10,9 @@ Commit Helper is a Go-based CLI application that helps you in formatting your gi
 4. Commits the changes with the formed commit message.
 
 ## Demo Video
-![Commit Message Helper](../assets/demo.mp4)
+https://github.com/samuellawrentz/commit-message-helper/assets/24652924/43a054f2-d431-488d-bad8-efd0e3965727
+
+
 
 
 ## Usage
