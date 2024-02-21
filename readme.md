@@ -20,3 +20,4 @@ Commit Helper is a Go-based CLI application that helps you in formatting your gi
 To tailor the application according to your needs, make adjustments in the `config` package. Update the user credentials, commit types, and other details accordingly.
 
 Make use of this commit helper and ease your committing process! Happy Coding! 🚀
+
